@@ -1,3 +1,5 @@
+For Salman
+
 <?php
 function upload_image($run, $photo_src, $save_src, $width = 0, $height = 0, $quality = 100)
 {
