@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @amitghoshanto
+# 👋 Hi, I’m Amit Ghosh Anto
 
 ## About Me
 - 👀 I’m interested in PHP
@@ -6,7 +6,7 @@
 - 📫 How to reach me? My website [www.amitghoshanto.com](http://www.amitghoshanto.com)
 
 ## Bio
-My name is Amit Ghosh Anto. I am an entrepreneur and the founder of "THE TOLET," a house rental website that I established in 2016. "THE TOLET" is dedicated to solving rental problems for families, bachelors, offices, hostels, sublets, and messes across Bangladesh. Our mission is to build a Digital Bangladesh by providing a proper system for house rental solutions in a digital way, eliminating the need for brokers.
+I am an entrepreneur and the founder of "THE TOLET," a house rental website that I established in 2016. "THE TOLET" is dedicated to solving rental problems for families, bachelors, offices, hostels, sublets, and messes across Bangladesh. Our mission is to build a Digital Bangladesh by providing a proper system for house rental solutions in a digital way, eliminating the need for brokers.
 
 ## Work Experience
 ### Founder & CEO, The Tolet (Dec 2016 - Present)
@@ -44,6 +44,8 @@ My name is Amit Ghosh Anto. I am an entrepreneur and the founder of "THE TOLET,"
 - PHP
 - MySQL
 - Laravel
+- Filament
+- Livewire
 - JavaScript
 - jQuery
 - HTML/HTML5
@@ -59,8 +61,6 @@ My name is Amit Ghosh Anto. I am an entrepreneur and the founder of "THE TOLET,"
 - Certified Internet Webmaster Web Developer (CIW)
 - Certified Internet Webmaster Web Design Specialist
 
-## Contact
-For any inquiries or collaborations, feel free to reach out via my website [www.amitghoshanto.com](http://www.amitghoshanto.com).
 
 ### Social Media Profiles
 - [Facebook](https://www.facebook.com/amitghoshanto)
