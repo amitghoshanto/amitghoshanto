@@ -54,9 +54,3 @@ I’m the **Founder & CEO** of [THE TOLET](https://www.thetolet.com/), a house r
 - [![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/amitghoshanto)  
 - [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/amit_ghosh_anto)  
 - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://linkedin.com/in/amitghoshanto)
-
----
-
-## 🏠 The Tolet
-![The Tolet Logo](https://www.thetolet.com/logo.svg)  
-[THE TOLET](https://www.thetolet.com/) is an online platform dedicated to solving rental problems across Bangladesh. We aim to eliminate broker involvement and help users find the perfect family home, bachelor home, office, hostel, sublet, or mess easily and digitally.  
