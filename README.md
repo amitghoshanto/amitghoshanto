@@ -1,69 +1,62 @@
-# 👋 Hi, I’m Amit Ghosh Anto
+# ![The Tolet Logo](https://www.thetolet.com/logo.svg)  
+## 👋 Hi, I’m Amit Ghosh Anto
 
-## About Me
-- 👀 I’m interested in PHP
-- 🌱 I’m currently using Laravel for website development
-- 📫 How to reach me? My website [www.amitghoshanto.com](http://www.amitghoshanto.com)
+### About Me
+- 👀 I’m interested in **PHP**
+- 🌱 Currently working with **Laravel** for website development
+- 📫 Reach me via my website: [amitghoshanto.com](http://www.amitghoshanto.com)
 
-## Bio
-I am an entrepreneur and the founder of "[THE TOLET](https://www.thetolet.com/)," a house rental website that I established in 2016. "THE TOLET" is dedicated to solving rental problems for families, bachelors, offices, hostels, sublets, and messes across Bangladesh. Our mission is to build a Digital Bangladesh by providing a proper system for house rental solutions in a digital way, eliminating the need for brokers.
+---
 
-## Work Experience
-### Founder & CEO, The Tolet (Dec 2016 - Present)
-- Developed an online platform to simplify the rental process in Bangladesh.
-- Created solutions for finding family homes, bachelor homes, offices, hostels, sublets, and messes.
-- Utilized MySQL and Laravel for backend development.
+## 🚀 Bio
+I’m the **Founder & CEO** of [THE TOLET](https://www.thetolet.com/), a house rental platform I launched in 2016. Our mission is to provide digital house rental solutions in Bangladesh, making it easier for families, bachelors, offices, and more to find homes—**without relying on brokers**.
 
-### Graphics Design Trainer, Sheikh Kamal IT Training & Incubation Center (Feb 2022 - Jul 2022)
-- Conducted training sessions on graphic design.
-- Taught Adobe Photoshop, Adobe Illustrator, and other design tools.
+---
 
-### Author, Amazon Kindle Direct Publishing (Apr 2021 - Oct 2021)
-- Published content on Amazon Kindle.
-- Utilized skills in Adobe Photoshop and Adobe Illustrator.
+## 💼 Work Experience
 
-### Cyber Security Manager, Directorate General of Forces Intelligence (DGFI) (Mar 2020 - Aug 2020)
-- Managed cybersecurity tasks and responsibilities.
-- Utilized MySQL for database management.
+### **Founder & CEO** | The Tolet (Dec 2016 - Present)
+- Developed an online platform to simplify the house rental process in Bangladesh
+- Built solutions for families, bachelors, offices, hostels, sublets, and messes
+- Utilized **MySQL** and **Laravel** for backend development
 
-### Web Developer, Hotels In Bangladesh (Feb 2019 - Feb 2020)
-- Developed and maintained the website [Hotels In Bangladesh]
-- Completed full script development using MySQL.
+### **Graphics Design Trainer** | Sheikh Kamal IT Training (Feb 2022 - Jul 2022)
+- Conducted training sessions on **Adobe Photoshop** and **Illustrator**
 
-## Skills
-### Industry Knowledge
-- Web Development
-- Web Design
-- Responsive Web Design
-- E-commerce
-- Front-end Development
-- Back-End Web Development
-- Graphic Design
+### **Author** | Amazon Kindle Direct Publishing (Apr 2021 - Oct 2021)
+- Published content with **Adobe tools** and **Amazon KDP**
 
-### Tools & Technologies
-- PHP
-- MySQL
-- Laravel
-- Filament
-- Livewire
-- JavaScript
-- jQuery
-- HTML/HTML5
-- CSS/CSS3
-- Bootstrap
-- Adobe Photoshop
-- Adobe Illustrator
-- AJAX
-- XHTML
-- Web Services API
+### **Cyber Security Manager** | Directorate General of Forces Intelligence (Mar 2020 - Aug 2020)
+- Managed **cybersecurity** responsibilities and **MySQL** database management
 
-### Certifications
-- Certified Internet Webmaster Web Developer (CIW)
-- Certified Internet Webmaster Web Design Specialist
+### **Web Developer** | Hotels In Bangladesh (Feb 2019 - Feb 2020)
+- Developed and maintained **Hotels In Bangladesh** website
 
+---
 
-### Social Media Profiles
-- [Facebook](https://www.facebook.com/amitghoshanto)
-- [Instagram](https://www.instagram.com/amitghoshanto)
-- [Twitter](https://twitter.com/amit_ghosh_anto)
-- [LinkedIn](https://linkedin.com/in/amitghoshanto)
+## 🛠️ Skills
+
+**Industry Knowledge**  
+- Web Development | **Responsive Design** | E-commerce | **Front-End Development** | **Back-End Development** | Graphic Design
+
+**Tools & Technologies**  
+- **PHP**, **MySQL**, **Laravel**, **Filament**, **Livewire**, **JavaScript**, **jQuery**  
+- **HTML/CSS3**, **Bootstrap**, **AJAX**, **Adobe Photoshop**, **Adobe Illustrator**
+
+**Certifications**  
+- **Certified Internet Webmaster Web Developer (CIW)**  
+- **Certified Internet Webmaster Web Design Specialist**
+
+---
+
+## 🌐 Social Media
+- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/amitghoshanto)  
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/amitghoshanto)  
+- [![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/amit_ghosh_anto)  
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://linkedin.com/in/amitghoshanto)
+
+---
+
+## 🏠 The Tolet
+![The Tolet Logo](https://www.thetolet.com/logo.svg)  
+[THE TOLET](https://www.thetolet.com/) is an online platform dedicated to solving rental problems across Bangladesh. We aim to eliminate broker involvement and help users find the perfect family home, bachelor home, office, hostel, sublet, or mess easily and digitally.  
