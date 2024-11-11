@@ -6,7 +6,7 @@
 - 📫 How to reach me? My website [www.amitghoshanto.com](http://www.amitghoshanto.com)
 
 ## Bio
-I am an entrepreneur and the founder of "THE TOLET," a house rental website that I established in 2016. "THE TOLET" is dedicated to solving rental problems for families, bachelors, offices, hostels, sublets, and messes across Bangladesh. Our mission is to build a Digital Bangladesh by providing a proper system for house rental solutions in a digital way, eliminating the need for brokers.
+I am an entrepreneur and the founder of "[THE TOLET](https://www.thetolet.com/)," a house rental website that I established in 2016. "THE TOLET" is dedicated to solving rental problems for families, bachelors, offices, hostels, sublets, and messes across Bangladesh. Our mission is to build a Digital Bangladesh by providing a proper system for house rental solutions in a digital way, eliminating the need for brokers.
 
 ## Work Experience
 ### Founder & CEO, The Tolet (Dec 2016 - Present)
@@ -27,7 +27,7 @@ I am an entrepreneur and the founder of "THE TOLET," a house rental website that
 - Utilized MySQL for database management.
 
 ### Web Developer, Hotels In Bangladesh (Feb 2019 - Feb 2020)
-- Developed and maintained the website [Hotels In Bangladesh](https://htlbd.com/).
+- Developed and maintained the website [Hotels In Bangladesh]
 - Completed full script development using MySQL.
 
 ## Skills
