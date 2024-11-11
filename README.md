@@ -1,4 +1,3 @@
-# ![The Tolet Logo](https://www.thetolet.com/logo.svg)  
 ## 👋 Hi, I’m Amit Ghosh Anto
 
 ### About Me
