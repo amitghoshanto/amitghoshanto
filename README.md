@@ -1,63 +1,113 @@
-## 👋 Hi, I’m Amit Ghosh Anto
+# Amit Ghosh Anto
 
-### About Me
-- 👀 I’m passionate about **PHP** and **web development**
-- 🌱 Currently working with **Laravel** for website development
-- 💼 Founder & CEO of **[THE TOLET](https://www.thetolet.com/)**, an innovative house rental platform
-- 📫 Reach me via my website: [amitghoshanto.com](http://www.amitghoshanto.com)
+Founder | Entrepreneur | Software Engineer  
+Bangladesh
 
 ---
 
-## 🚀 Bio
-I am the **Founder & CEO** of [THE TOLET](https://www.thetolet.com/), a house rental platform I founded in 2016. Our mission is to provide efficient and digital house rental solutions in Bangladesh, catering to families, bachelors, offices, and more, **eliminating the need for brokers**.
-
-With a strong entrepreneurial spirit, I am committed to building a **Digital Bangladesh** and continuously improving **The Tolet** to serve both tenants and landlords effectively. My background spans across web development, cybersecurity, and graphic design, combining technical skills with a passion for creative solutions.
+## Professional Overview
+Technology focused entrepreneur and software engineer with extensive experience in building scalable web platforms using PHP and Laravel. Founder and CEO of THE TOLET, a broker free digital house rental platform operating in Bangladesh since 2016. Strong background in backend architecture, system security, and product driven development.
 
 ---
 
-## 💼 Work Experience
-
-### **Founder & CEO** | The Tolet (Dec 2016 - Present)
-- Developed an online platform to simplify the house rental process in Bangladesh
-- Built solutions for families, bachelors, offices, hostels, sublets, and messes
-- Utilized **MySQL** and **Laravel** for backend development
-
-### **Graphics Design Trainer** | Sheikh Kamal IT Training (Feb 2022 - Jul 2022)
-- Conducted training sessions on **Adobe Photoshop** and **Illustrator**
-
-### **Author** | Amazon Kindle Direct Publishing (Apr 2021 - Oct 2021)
-- Published content using **Adobe tools** and **Amazon KDP**
-
-### **Cyber Security Manager** | Directorate General of Forces Intelligence (Mar 2020 - Aug 2020)
-- Managed **cybersecurity** tasks and **MySQL** database management
-
-### **Web Developer** | Hotels In Bangladesh (Feb 2019 - Feb 2020)
-- Developed and maintained the **Hotels In Bangladesh** website
+## Current Focus
+- Scaling THE TOLET platform nationwide
+- Advanced Laravel development with Filament and Livewire
+- Backend optimization and database performance
+- Secure and reliable system architecture
+- User experience and product growth strategy
 
 ---
 
-## 🛠️ Skills
+## Work Experience
 
-**Industry Knowledge**  
-- **Web Development**, **Responsive Design**, **E-commerce**, **Front-End Development**, **Back-End Development**, **Graphic Design**
+### Founder and CEO | THE TOLET  
+December 2016 to Present  
+https://www.thetolet.com  
 
-**Tools & Technologies**  
-- **PHP**, **MySQL**, **Laravel**, **Filament**, **Livewire**, **JavaScript**, **jQuery**  
-- **HTML/CSS3**, **Bootstrap**, **AJAX**, **Adobe Photoshop**, **Adobe Illustrator**
-
-**Certifications**  
-- **Certified Internet Webmaster Web Developer (CIW)**  
-- **Certified Internet Webmaster Web Design Specialist**
+- Founded and leading a digital house rental platform in Bangladesh  
+- Designed broker free rental workflows for tenants and landlords  
+- Built scalable backend systems using Laravel and MySQL  
+- Managing product strategy, security, and long term growth  
 
 ---
 
-## 🌐 Social Media
-- [Facebook](https://www.facebook.com/amitghoshanto) | [Instagram](https://www.instagram.com/amitghoshanto)  
-- [Twitter](https://twitter.com/amit_ghosh_anto) | [LinkedIn](https://linkedin.com/in/amitghoshanto)
+### Cyber Security Manager | Directorate General of Forces Intelligence  
+March 2020 to August 2020  
+
+- Worked on cybersecurity monitoring and internal system security  
+- Managed MySQL databases and operational data  
+- Assisted in incident response and risk assessment  
 
 ---
 
-## 📖 Additional Information
-- **Vision**: To transform the house rental industry in Bangladesh by creating a **fully digital experience** that helps both tenants and landlords.
-- **Hobbies**: Outside of work, I enjoy learning about new technologies, experimenting with graphic design, and exploring various digital platforms.
-- **Philosophy**: I believe in solving real-world problems through innovation, efficiency, and creativity, and I am committed to making technology work for people.
+### Web Developer | Hotels In Bangladesh  
+February 2019 to February 2020  
+
+- Developed and maintained production level web applications  
+- Improved backend stability and performance  
+
+---
+
+### Graphics Design Trainer | Sheikh Kamal IT Training Center  
+February 2022 to July 2022  
+
+- Conducted professional training on Adobe Photoshop and Illustrator  
+- Mentored students with real world design workflows  
+
+---
+
+### Author | Amazon Kindle Direct Publishing  
+April 2021 to October 2021  
+
+- Published digital content using Adobe tools  
+- Managed content creation and publishing workflow  
+
+---
+
+## Technical Skills
+
+### Backend and Web Development
+- PHP
+- Laravel
+- Filament
+- Livewire
+- MySQL
+- REST API
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- AJAX
+
+### Design Tools
+- Adobe Photoshop
+- Adobe Illustrator
+
+### Additional Skills
+- Cybersecurity fundamentals
+- System optimization
+- Product oriented development
+
+---
+
+## Certifications
+- Certified Internet Webmaster Web Developer
+- Certified Internet Webmaster Web Design Specialist
+
+---
+
+## Online Presence
+- Website: https://www.amitghoshanto.com  
+- Facebook: https://www.facebook.com/amitghoshanto  
+- Instagram: https://www.instagram.com/amitghoshanto  
+- Twitter: https://twitter.com/amit_ghosh_anto  
+- LinkedIn: https://linkedin.com/in/amitghoshanto  
+
+---
+
+## Vision
+To build meaningful digital products that simplify real life problems, remove inefficiencies, and empower people through technology. I believe strong products are built with clarity, discipline, and long term vision.
